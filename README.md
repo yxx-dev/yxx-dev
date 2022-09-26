@@ -1,4 +1,11 @@
-### Hi there 👋
+- 🔭 I’m currently working on Node.js and SQL backends
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on sustainable transportation projects
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about transportation & climate tech
+- 📫 How to reach me: yxu13@uw.edu
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: was the leading guitar in colleage band
 
 <!--
 **yxx-dev/yxx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
