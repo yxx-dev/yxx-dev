@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning: **python**
 - 👯 I’m looking to collaborate on: **sustainable transportation tech projects**
 - 🤔 I’m looking for help with: **tests**
-<br>
 - 📫 How to reach me: yxu13@uw.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: was the leading guitar in colleage band
