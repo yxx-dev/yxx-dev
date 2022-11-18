@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on: **Node.js and SQL backends**
+- 🔭 I’m currently working on: **MERN stack, PWA**
 - 🌱 I’m currently learning: **Typescript, Python**
 - 👯 I’m looking to collaborate on: **sustainable transportation tech projects**
 - 🤔 I’m looking for help with: **tests**
