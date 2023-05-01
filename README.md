@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning: **Typescript, Python**
 - 👯 I’m looking to collaborate on: **sustainable transportation tech projects**
 - 🤔 I’m looking for help with: **tests**
-- 📫 How to reach me: PortFi.biz@gmail.com
+- 📫 How to reach me: founder@portfi.biz
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: was the leading guitar in colleage band
 
